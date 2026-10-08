@@ -1,2 +1,2 @@
 only happy flows
-User can't enroll a course
+User enrolls only this course 'Advanced TypeScript Patterns'
